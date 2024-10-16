@@ -1,10 +1,7 @@
 - ### Índice:
 
-	  <a name="01-Sobre-o-ambiente-shell"></a>
-  
-
-	  logseq.order-list-type:: number
-	  > 01 - Sobre o ambiente shell  
+- <a name="01-Sobre-o-ambiente-shell"></a
+  01 - Sobre o ambiente shell  
   
 -
 
