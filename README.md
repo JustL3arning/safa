@@ -32,7 +32,7 @@
   
 	-
   > [!IMPORTANT]
-> É posssível passar na prova em um tempo menor, porém, decidimos nos aprofundarmos nos conteúdos para aproveitar a motivação de obter a certificação. Nosso objetivo era realmente aprender o máximo sobre cada conteúdo estudado, mesmo que no exame fosse cobrado de forma mais superficial. Caso você tenha tempo, minha recomendação é de que faça o mesmo, aproveite o foco nos tópicos para estudar de forma mais detalhada cada assunto, além de te deixar mais seguro para a realização do exame, te proporcionará um ótimo ganho a longo prazo.  
+  >   É posssível passar na prova em um tempo menor, porém, decidimos nos aprofundarmos nos conteúdos para aproveitar a motivação de obter a certificação. Nosso objetivo era realmente aprender o máximo sobre cada conteúdo estudado, mesmo que no exame fosse cobrado de forma mais superficial. Caso você tenha tempo, minha recomendação é de que faça o mesmo, aproveite o foco nos tópicos para estudar de forma mais detalhada cada assunto, além de te deixar mais seguro para a realização do exame, te proporcionará um ótimo ganho a longo prazo.  
   
 -
 ---
