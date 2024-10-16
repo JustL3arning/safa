@@ -1,12 +1,12 @@
 - ### Índice:
 
-	-
+
 	  logseq.order-list-type:: number
-	  > #[[00 - Ordem + principais fontes dos estudos.]]  
+	  > 00 - Ordem + principais fontes dos estudos 
   
-	-
+
 	  logseq.order-list-type:: number
-	  > #[[01 - Sobre o ambiente shell]]  
+	  > 01 - Sobre o ambiente shell  
   
 -
 
