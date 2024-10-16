@@ -1,7 +1,7 @@
 - ### Índice:
 
 - <a name="01-Sobre-o-ambiente-shell"></a>
-  [01 - Sobre o ambiente shell](#01-Sobre-o-ambiente-shell)  
+  
   
 -
 
@@ -48,7 +48,7 @@
 
 -
 
-- ### 01 - Sobre o ambiente shell
+- ### [01 - Sobre o ambiente shell](#01-Sobre-o-ambiente-shell)  
 
 	- Quando pensamos em "aprender Linux", o que na verdade estamos buscando, é um entendimento sobre como o *Kernel* (Linux) funciona, e suas interações com o resto dos componentes de um computador. Mas onde entra a ação do usuário nisso tudo?
 
