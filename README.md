@@ -1,8 +1,8 @@
 - ### Índice:
 
-- [01 - Sobre o ambiente shell](#01-Sobre-o-ambiente-shell)
-  
--
+0. [00 - Ordem + principais fontes dos estudos](#00-Ordem-+-principais-fontes-dos-estudos)
+1. [01 - Sobre o ambiente shell](#01-Sobre-o-ambiente-shell)
+
 
 - ## Introdução
 
@@ -32,7 +32,7 @@
   
 -
 ---
-
+<a name="00-Ordem-+-principais-fontes-dos-estudos"></a>
 - ### 00 - Ordem + principais fontes dos estudos.
 
 	- Ao longo do guia poderão ser incluídos alguns links específicos de conteúdos usados para aprender determinado assunto, mas de maneira geral, os principais locais e que recomendo o uso para realizar seus próprios estudos são:
