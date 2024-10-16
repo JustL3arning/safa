@@ -31,8 +31,8 @@
   Tivemos um hiato ocasionado por motivos pessoais, que durou 1 mês e uma semana, então, começando os estudos em 18th Jul 2024, realizando a última parte do exame no dia 18th Feb 2025 e desconsiderando nossa pausa, levamos 5 meses e 3 semanas para passar nas duas partes da prova.  
   
 	-
-  > [!IMPORTANT]
-  >   É posssível passar na prova em um tempo menor, porém, decidimos nos aprofundarmos nos conteúdos para aproveitar a motivação de obter a certificação. Nosso objetivo era realmente aprender o máximo sobre cada conteúdo estudado, mesmo que no exame fosse cobrado de forma mais superficial. Caso você tenha tempo, minha recomendação é de que faça o mesmo, aproveite o foco nos tópicos para estudar de forma mais detalhada cada assunto, além de te deixar mais seguro para a realização do exame, te proporcionará um ótimo ganho a longo prazo.  
+ > [!IMPORTANT]
+> É posssível passar na prova em um tempo menor, porém, decidimos nos aprofundarmos nos conteúdos para aproveitar a motivação de obter a certificação. Nosso objetivo era realmente aprender o máximo sobre cada conteúdo estudado, mesmo que no exame fosse cobrado de forma mais superficial. Caso você tenha tempo, minha recomendação é de que faça o mesmo, aproveite o foco nos tópicos para estudar de forma mais detalhada cada assunto, além de te deixar mais seguro para a realização do exame, te proporcionará um ótimo ganho a longo prazo.  
   
 -
 ---
