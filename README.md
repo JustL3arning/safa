@@ -1,7 +1,6 @@
 - ### Índice:
 
-- <a name="01-Sobre-o-ambiente-shell"></a>
- [01 - Sobre o ambiente shell](#01-Sobre-o-ambiente-shell)
+- [01 - Sobre o ambiente shell](#01-Sobre-o-ambiente-shell)
   
 -
 
@@ -47,8 +46,9 @@
 		- Canais do Youtube - Os principais canais com conteúdo em português sobre todo o universo do GNU/Linux, que eu posso recomendar com tranquilidade: o do [Paulo Kretcheu](https://www.youtube.com/@kretcheu2001) e o [debxp](https://www.youtube.com/@debxp/videos) do Blau Araujo.
 
 -
-
-- ### [01 - Sobre o ambiente shell](#01-Sobre-o-ambiente-shell)  
+	<a name="01-Sobre-o-ambiente-shell"></a>
+ ### [01 - Sobre o ambiente shell](#01-Sobre-o-ambiente-shell)
+ 
 
 	- Quando pensamos em "aprender Linux", o que na verdade estamos buscando, é um entendimento sobre como o *Kernel* (Linux) funciona, e suas interações com o resto dos componentes de um computador. Mas onde entra a ação do usuário nisso tudo?
 
